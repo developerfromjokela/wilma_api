@@ -1,4 +1,6 @@
 # Wilma API
-Wilma API Documentation of Wilma's REST API
+Unoffical documentation for Wilma's REST API.<br>
+(Wilma is a service developed by Visma, not the owners/contributors of this repo)
 
-Go to Wiki, it's there
+---
+[Read the documentation](https://github.com/developerfromjokela/wilma_api/wiki)
